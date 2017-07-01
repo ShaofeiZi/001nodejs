@@ -1683,12 +1683,8 @@ exports.show = show;
 
 选择一张图片上传，查看效果：
 
-![](http://osazvg3ch.bkt.clouddn.com/WX20170701-111505@2x.png)
+![](http://osazvg3ch.bkt.clouddn.com/WX20170701-122242@2x.png)
 
 ### 16.源码下载
 [所有源码:https://github.com/fullstacktribe/001nodejs](https://github.com/fullstacktribe/001nodejs)
-
-
-
-
 
