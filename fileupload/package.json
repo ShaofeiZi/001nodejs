@@ -1,0 +1,14 @@
+{
+  "author": "liyuechun",
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "fileupload",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
